@@ -1,2 +1,4 @@
-# gv_led-strip
 ![](/docs/badge_rtl.svg)
+# Rainbow Trail - Lights
+
+
