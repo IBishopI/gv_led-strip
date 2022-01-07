@@ -1,4 +1,4 @@
-![](/docs/badge_rtl.svg)
+![](/docs/badge_rtl.svg)![](/docs/logosmall.png)
 # Rainbow Trail - Lights
 
 This project makes possible to control animated address led strip via voice assistants.
@@ -10,4 +10,4 @@ This project makes possible to control animated address led strip via voice assi
 ## Photo and videos
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/5XOH2PYeXF0)
+[![Watch the video](/docs/rt-lights_github_prev.png)](https://youtu.be/5XOH2PYeXF0)
