@@ -1,5 +1,4 @@
-# Rainbow Trail - Lights
-![](/docs/badge_rtl.svg)
+# Rainbow Trail - Lights ![](/docs/badge_rtl.svg)
 
 ![](/docs/logosmall.png)
 
